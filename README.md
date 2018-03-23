@@ -1,5 +1,7 @@
 # Crystal Game
 
+[Link to app](https://yiyi098.github.io/Crystal-Game/)
+
 ### Overview
 
 There are be four crystals displayed as buttons on the page.
